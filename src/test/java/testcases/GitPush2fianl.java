@@ -1,6 +1,6 @@
 package testcases;
 
-public class GitPush2 {
+public class GitPush2fianl {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
