@@ -63,6 +63,7 @@ public class CreateCampaignStatusTest extends BaseClass {
 				
 				Assert.assertTrue(msg.contains(campname));
 				driver.findElement(By.xpath("//button[@aria-label='close']")).click();
+				
 		
 			
 	}
